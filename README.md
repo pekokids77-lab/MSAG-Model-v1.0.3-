@@ -7,6 +7,8 @@
 * **Recovery Model**: [H-SDRM-Model-v1.1.0](https://github.com/pekokids77-lab/H-SDRM-Model-v1.1.0-) - 螺旋衰減擺盪與系統崩潰重構模型宣言
 * **Cognitive Engine**: [SSCM-Cognitive-Model](https://github.com/pekokids77-lab/SSCM-Cognitive-Model) - 自旋球態認知模型 (v2.2.1 修復版)
 
+---
+
 MSAG Model (v1.0.3)
 Mass-Swarm Alignment & Info-Epidemic Gyro-Predation Model
 群體極化與資訊流行病：自旋對齊與高維掠食模型宣言
