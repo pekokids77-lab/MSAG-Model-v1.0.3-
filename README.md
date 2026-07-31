@@ -1,5 +1,3 @@
----
-
 ### 🌐 Theoretical Framework & Related Projects
 本專案為 **Unified Cybernetics & AICA Architecture** 高維控制論系列工程之一：
 
