@@ -1,5 +1,10 @@
 ### 🌐 Theoretical Framework & Related Projects
-本專案為 **Unified Cybernetics & AICA Architecture** 高維控制論系列工程之一：
+ ⚠️ **Status: Legacy / Archived Prototype**  
+> 本專案為早期探索性概念模型（Historical Draft），理論體系與嚴格量綱規範現已完全遷移並收斂至：
+> - 核心元架構規範：**[https://github.com/pekokids77-lab/RFC-Negentropy-Meta-Framework-Specification.git]**
+>- 完整心智拓撲控制論 **[(https://github.com/pekokids77-lab/SSCM-Cognitive-Model-.git))](https://github.com/pekokids77-lab/SSCM-Cognitive-Model-.git)**  - 適用：嚴格量綱分析、控制理論推導、多智慧體（Multi-Agent）工程化實作。
+>
+> 建議研究與引用時以最新 RFC 與 SSCM 規格為準。
 
 * **Core Whitepaper**: [AICA Architecture](https://github.com/pekokids77-lab/AICA-Architecture) - 高維統一控制論與 AGI 內省架構白皮書
 * **Control Model**: [TST-SSCM-Model-v1.2](https://github.com/pekokids77-lab/TST-SSCM-Model-v1.2) - 拓撲環場心智控制模型與系統結構控制宣告
